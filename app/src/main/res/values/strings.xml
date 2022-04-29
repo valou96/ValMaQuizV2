@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ValMaQuiz</string>
+    <string name="welcome_back_with_score">Bienvenue, %s!\nLa derniere fois, tu as fais %d, Vas tu faire mieux cette fois ci ?</string>
+    <string name="welcome_back">Content de te revoir, %s!</string>
+</resources>
